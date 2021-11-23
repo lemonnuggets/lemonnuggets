@@ -17,6 +17,13 @@
   
 </div>
 <!--START_SECTION:waka-->
+```text
+JavaScript   9 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.90 % 
+Python       6 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.15 % 
+HTML         4 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.87 % 
+JSX          2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+JSON         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+```
 <!--END_SECTION:waka-->
 <span>
 <h3 align="left">Languages and Tools:</h3>
