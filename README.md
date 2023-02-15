@@ -12,7 +12,7 @@
 
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemonnuggets&count_private=true&show_icons=true&theme=calm&border_radius=30&hide=stars" />
+  <img src="https://github-readme-stats-1-five-eta.vercel.app/api?username=lemonnuggets&count_private=true&show_icons=true&theme=calm&border_radius=30&hide=stars" />
 </a>
   
 </div>
