@@ -4,11 +4,11 @@
 - 📫 How to reach me: **adamjijoisme@gmail.com**
 - 💕 Pronouns: **he/him**
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/5omwfj76qlivkidcfnjbbkugd">
   <img src="https://lemonnuggets.vercel.app/api/spotify" />
 </a>
-</div>
+</div> -->
 
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
